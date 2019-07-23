@@ -1,0 +1,4 @@
+server:
+  ssl:
+    key-password: changeit
+    key-store: &basedir /ssl-server.jks
